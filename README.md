@@ -1,9 +1,7 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+<h1 align="left">Olá, eu sou o Davi Souza </h1>
 
 ###
 
-<p align="center">Davi Souza da Silva</p>
+<p align="left">✨Paixão por tecnologia <br>📚 Estudo arquitetura de dados e computação em nuvem<br>🎯Sempre disposto a aprender algo novo </p>
 
-###
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDavi1412anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
