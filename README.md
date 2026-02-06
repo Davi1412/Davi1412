@@ -42,9 +42,7 @@ height="160"
 style="vertical-align:top;"
 />
 
-<img src="https://streak-stats.demolab.com?user=Davi1412&theme=transparent&hide_border=true&locale=pt" alt="GitHub Streak"
-  height="160"
-  style="vertical-align:top;"
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Davi1412&theme=transparent" />
   />
 
 
@@ -53,8 +51,7 @@ style="vertical-align:top;"
 <div align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davi1412&theme=transparent"
-    width="100%"
-  />
+    width="100%"/>
 </div>
 
 <br><br>
