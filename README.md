@@ -23,24 +23,26 @@
 <br><br>
 
 <!-- GITHUB STATS - SUMMARY CARDS (OPÇÃO 2) -->
-<div align="center">
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davi1412&theme=dracula"
-    width="100%"
-  />
-
-  <br><br>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Davi1412&theme=dracula"
     height="160"
+    style="vertical-align: top;"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davi1412&theme=zenburn"
     height="160"
+    style="vertical-align: top;"
   />
 
+</div>
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davi1412&theme=dracula"
+    width="100%"
+  />
 </div>
 
 <br><br>
