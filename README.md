@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=20&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=12,14&section=header"/>
 
 <br>
 
@@ -16,8 +16,8 @@
 
 <div align="center" width="100%">
   <img
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=644CF7&width=435&lines=Estudante+de+Arquitetura+de+dados+e+Cloud" alt="Typing SVG" /></a>
-  
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006AFF&center=true&width=511&lines=Estudante+de+Arquitetura+de+dados+e+Cloud;Sou+do+Brasil;Seja+Bem-Vindo" alt="Typing SVG" /></a>
+ 
 </div>
 
 <br><br>
@@ -26,21 +26,29 @@
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Davi1412&theme=dracula"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Davi1412&theme=transparent"
     height="160"
     style="vertical-align: top;"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davi1412&theme=zenburn"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davi1412&theme=transparent"
     height="160"
     style="vertical-align: top;"
   />
+
+<img
+   src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=transparent&utcOffset=8"
+height="160"
+style="vertical-align:top;"
+/>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=davi1412&theme=transparent&hide_border=true&locale=pt" alt="GitHub Streak" /></a>
 
 </div>
 
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davi1412&theme=dracula"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davi1412&theme=transparent"
     width="100%"
   />
 </div>
@@ -84,9 +92,10 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Davi1412&style=flat-square&color=123845"/>
+  <img src="https://komarev.com/ghpvc/?username=Davi1412&style=flat-square&color=006AFF"/>,
+  
 </div>
 
 <br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=12&section=footer"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=23&section=footer"/>
