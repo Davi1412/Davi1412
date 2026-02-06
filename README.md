@@ -3,11 +3,12 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/a/ebYrqv5.png" />
+  <img align="center" height="150" src="https://i.imgur.com/ebYrqv5.png" />
 </div>
 
+
 <div align="center">
-  <b>`プ ロ グ ラ マ`</b>
+  <b>データアナリスト</b>
   <samp>
       <br>
       Olá! eu sou <b>Davi Souza da Silva</b>
@@ -16,13 +17,12 @@
 
 <div align="center" width="100%">
   <img
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=644CF7&width=435&lines=Estudante+de+Arquitetura+de+dados+e+Cloud" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=503&lines=Estudante+de+arquitetura+de+dados+e+cloud;Sou+do+Brasil;Seja+bem+vindo+" alt="Typing SVG" /></a>
   
 </div>
 
 <br><br>
 
-<!-- GITHUB STATS - SUMMARY CARDS (OPÇÃO 2) -->
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
   <img
