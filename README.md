@@ -37,12 +37,12 @@
   />
 
 <img
-   src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=transparent&utcOffset=8"
+   src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Davi1412&theme=transparent&utcOffset=8"
 height="160"
 style="vertical-align:top;"
 />
 
-<img src="https://streak-stats.demolab.com?user=davi1412&theme=transparent&hide_border=true&locale=pt" alt="GitHub Streak"
+<img src="https://streak-stats.demolab.com?user=Davi1412&theme=transparent&hide_border=true&locale=pt" alt="GitHub Streak"
   height="160"
   style="vertical-align:top;"
   />
