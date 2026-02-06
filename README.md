@@ -1,45 +1,107 @@
-# Welcome to My Profile! 
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=12,14&section=header"
+/>
 
-![Profile Image](https://avatars.githubusercontent.com/Davi1412)
+<br />
 
-## Typing Animation
+<div align="center">
+  <img
+    align="center"
+    height="150"
+    src="https://i.imgur.com/bKMDzPP.png"
+  />
+</div>
 
-<p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?color=%23F0F8FF&size=30&lines=Hi+there!+I'm+Davi1412;Welcome+to+my+GitHub+profile!;Let's+collaborate!;Feel+free+to+explore!" />
-</p>
+<div align="center">
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
+    <br />
+    Olá! eu sou <b>Davi Souza da Silva</b>
+  </samp>
+</div>
 
-## GitHub Stats
+<div align="center" width="100%">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006AFF&center=true&width=511&lines=Estudante+de+Arquitetura+de+dados+e+Cloud;Sou+do+Brasil;Seja+Bem-Vindo"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Davi1412&show_icons=true&theme=dark" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi1412&theme=dark" />
-</p>
+<br /><br />
 
-## GitHub Streak
+<!-- ===================== -->
+<!--      GITHUB STATUS    -->
+<!-- ===================== -->
 
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=Davi1412&theme=dark" />
-</p>
+<!-- LINHA 1 – 3 CARDS -->
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davi1412&theme=dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davi1412&theme=dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Davi1412&theme=dark) |
+| :-: | :-: | :-: |
 
-## Skills
+<!-- LINHA 2 – 2 CARDS -->
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Davi1412&theme=dark&utcOffset=-3) | <img src="https://github-readme-streak-stats.herokuapp.com?user=Davi1412&theme=dark" height="160" style="vertical-align:top;" alt="GitHub Streak" />| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=dark) |
+| :-: | :-: | :-: |
 
-<p align="left" style="display: flex; justify-content: space-between;">
-   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
-   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=%23F7DF1E" />
-   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
-</p>
+<br /><br />
 
-## Contact Me
+<!-- ===================== -->
+<!--        SKILLS         -->
+<!-- ===================== -->
 
-Feel free to reach out to me on:
+<div align="center" style="display: inline_block">
+  <br />
 
-<p>
-   <a href="mailto:davi1412@example.com">Email</a> |  
-   <a href="https://linkedin.com/in/davi1412">LinkedIn</a> |  
-   <a href="https://twitter.com/davi1412">Twitter</a>
-</p>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
+</div>
 
----  
+<br /><br />
 
-Last Updated: 2026-02-06 13:15:01 (UTC)
+<!-- ===================== -->
+<!--       MORE INFO       -->
+<!-- ===================== -->
+
+<details align="center">
+  <summary>
+    <samp><b>More Info</b></samp>
+  </summary>
+
+  <br />
+
+  <div align="center">
+    <samp><b>Contact me:</b></samp>
+    <br /><br />
+
+    [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
+    [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/)
+    [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/)
+  </div>
+</details>
+
+<br />
+
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Davi1412&style=flat-square&color=006AFF"
+  />
+</div>
+
+<br />
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=12&section=footer"
+/>
