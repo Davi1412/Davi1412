@@ -24,7 +24,7 @@
 <div align="center" width="100%">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006AFF&center=true&width=511&lines=Estudante+de+Arquitetura+de+dados+e+Cloud;Sou+do+Brasil;Seja+Bem-Vindo"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=511&lines=Estudante+de+Arquitetura+de+dados+e+Cloud;Sou+do+Brasil;Seja+Bem-Vindo"
       alt="Typing SVG"
     />
   </a>
@@ -44,28 +44,23 @@
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Davi1412&theme=dark&utcOffset=-3) | <img src="https://github-readme-streak-stats.herokuapp.com?user=Davi1412&theme=dark" height="160" style="vertical-align:top;" alt="GitHub Streak" />| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=dark) |
 | :-: | :-: | :-: |
 
-<br /><br />
+<br />
 
 <!-- ===================== -->
 <!--        SKILLS         -->
 <!-- ===================== -->
-
-<div align="center" style="display: inline_block">
-  <br />
-
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" />
+<div align="center">
+  <samp>
+    <br />
+  <b>Conhecimentos:</b>
+  </samp>
 </div>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,bootstrap,aws,python,azure,css,figma,js,mysql,html,bootstrap" />
+  </a>
+</p>
 
 <br /><br />
 
@@ -103,5 +98,5 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=12&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=12,14&section=footer"
 />
